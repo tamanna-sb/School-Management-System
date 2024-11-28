@@ -1,7 +1,7 @@
 # School-Management-System
 School Management System using React, Node.js, MongoDB
 
-1. Add students and Teachers
-2. Track attendance
-3. Assess performance
-4. View marks
+1. Student/teacher/admin sign in/sign up
+2. Add/delete/update students, teachers, subjects, classes
+3. Add/track attendance/marks
+4. Share feedback
