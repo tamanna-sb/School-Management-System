@@ -6,7 +6,7 @@ The **School Management System** is a full-stack web application designed to man
 ## Features
 ### Authentication & Authorization
 - User roles: **Admin, Teacher, Student**
-- Secure Sign-up & Sign-in (JWT-based authentication)
+- Secure Sign-up & Sign-in
 
 ### Student & Teacher Management
 - Admin can **add, delete, update** students & teachers
